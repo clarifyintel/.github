@@ -1,12 +1,14 @@
-## Hi there 👋
+# ClarifyIntel
 
-<!--
+We clarify complex systems.
+AI, Kubernetes, DevOps, and modern infrastructure explained simply.
 
-**Here are some ideas to get you started:**
+We build tools, write guides, and solve real-world engineering problems.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What we build
+- AI tooling for LLM fine-tuning
+- Kubernetes debugging tools
+- Developer-first utilities
+
+## Used by engineers working with:
+Kubernetes · LLMs · DevOps · MLOps
