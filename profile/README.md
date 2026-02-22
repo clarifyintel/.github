@@ -1,14 +1,9 @@
 # ClarifyIntel
 
-We clarify complex systems.
-AI, Kubernetes, DevOps, and modern infrastructure explained simply.
+API documentation engineering and EU AI Act compliance.
 
-We build tools, write guides, and solve real-world engineering problems.
+We build developer portals, API references, and DX audit frameworks for fintech and SaaS. We implement EU AI Act transparency obligations in code.
 
-## What we build
-- AI tooling for LLM fine-tuning
-- Kubernetes debugging tools
-- Developer-first utilities
+Async delivery. No meetings.
 
-## Used by engineers working with:
-Kubernetes · LLMs · DevOps · MLOps
+hello@clarifyintel.com · [clarifyintel.com](https://clarifyintel.com)
